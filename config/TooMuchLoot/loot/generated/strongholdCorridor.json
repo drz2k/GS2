@@ -1,0 +1,301 @@
+{
+  "category": "strongholdCorridor",
+  "count_min": 2,
+  "count_max": 4,
+  "loot": [
+    {
+      "item": "minecraft:ender_pearl",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:diamond",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:redstone",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 4,
+      "count_max": 9
+    },
+    {
+      "item": "minecraft:bread",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:apple",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:iron_pickaxe",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_chestplate",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_helmet",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_leggings",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_boots",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:saddle",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_horse_armor",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:golden_horse_armor",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:diamond_horse_armor",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemOreIridium",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 4
+    },
+    {
+      "item": "IC2:itemShardIridium",
+      "damage": 0,
+      "weight": 8,
+      "count_min": 4,
+      "count_max": 14
+    },
+    {
+      "item": "IC2:itemToolBronzePickaxe",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemToolBronzeSword",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemArmorBronzeHelmet",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemArmorBronzeChestplate",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemArmorBronzeLegs",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemArmorBronzeBoots",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemIngot",
+      "damage": 0,
+      "weight": 9,
+      "count_min": 2,
+      "count_max": 6
+    },
+    {
+      "item": "IC2:itemIngot",
+      "damage": 1,
+      "weight": 8,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "NotEnoughWands:SwappingWand",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:TeleportationWand",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:CapturingWand",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:BuildingWand",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:IlluminationWand",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:MovingWand",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:ProtectionWand",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:DisplacementWand",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:AccelerationWand",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "openmodularturrets:disposeItemTurret",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "openmodularturrets:baseTierWood",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "openmodularturrets:leverBlock",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "QuarryPlus:magicmirror",
+      "damage": 0,
+      "weight": 9,
+      "count_min": 1,
+      "count_max": 1
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "category": "mineshaftCorridor",
+  "count_min": 3,
+  "count_max": 7,
+  "loot": [
+    {
+      "item": "minecraft:iron_ingot",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:redstone",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 4,
+      "count_max": 9
+    },
+    {
+      "item": "minecraft:dye",
+      "damage": 4,
+      "weight": 5,
+      "count_min": 4,
+      "count_max": 9
+    },
+    {
+      "item": "minecraft:diamond",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "minecraft:coal",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 3,
+      "count_max": 8
+    },
+    {
+      "item": "minecraft:bread",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:iron_pickaxe",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:rail",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 4,
+      "count_max": 8
+    },
+    {
+      "item": "minecraft:melon_seeds",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 2,
+      "count_max": 4
+    },
+    {
+      "item": "minecraft:pumpkin_seeds",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 2,
+      "count_max": 4
+    },
+    {
+      "item": "minecraft:saddle",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:iron_horse_armor",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemToolBronzePickaxe",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemTinCanFilled",
+      "damage": 0,
+      "weight": 8,
+      "count_min": 4,
+      "count_max": 16
+    },
+    {
+      "item": "IC2:itemShardIridium",
+      "damage": 0,
+      "weight": 8,
+      "count_min": 2,
+      "count_max": 5
+    },
+    {
+      "item": "IC2:itemIngot",
+      "damage": 0,
+      "weight": 9,
+      "count_min": 2,
+      "count_max": 6
+    },
+    {
+      "item": "IC2:itemIngot",
+      "damage": 1,
+      "weight": 8,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "NotEnoughWands:SwappingWand",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:TeleportationWand",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:CapturingWand",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:BuildingWand",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:IlluminationWand",
+      "damage": 0,
+      "weight": 6,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:MovingWand",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:ProtectionWand",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:DisplacementWand",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "NotEnoughWands:AccelerationWand",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "OpenBlocks:technicolorGlasses",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "Ztones:splatAxe",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 9,
+      "weight": 14,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 10,
+      "weight": 12,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 8,
+      "weight": 14,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 14,
+      "weight": 13,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 15,
+      "weight": 13,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 5,
+      "weight": 11,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 6,
+      "weight": 11,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 7,
+      "weight": 11,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 16,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "foundry:foundryComponent",
+      "damage": 17,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "foundry:foundryRevolver",
+      "damage": 0,
+      "nbt": {
+        "Slot_0": {
+          "Empty^b": 1
+        },
+        "Slot_1": {
+          "Empty^b": 1
+        },
+        "Slot_2": {
+          "Empty^b": 1
+        },
+        "Slot_3": {
+          "Empty^b": 1
+        },
+        "position^i": 0,
+        "Slot_4": {
+          "Empty^b": 1
+        },
+        "Slot_5": {
+          "Empty^b": 1
+        },
+        "Slot_6": {
+          "Empty^b": 1
+        },
+        "Slot_7": {
+          "Empty^b": 1
+        }
+      },
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "foundry:foundryRound",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 4,
+      "count_max": 16
+    },
+    {
+      "item": "openmodularturrets:disposeItemTurret",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 2
+    },
+    {
+      "item": "openmodularturrets:baseTierWood",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "openmodularturrets:leverBlock",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "QuarryPlus:magicmirror",
+      "damage": 0,
+      "weight": 9,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "appliedenergistics2:item.ItemMultiMaterial",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 4
+    },
+    {
+      "item": "appliedenergistics2:item.ItemMultiMaterial",
+      "damage": 2,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 4
+    },
+    {
+      "item": "SGCraft:sgCoreCrystal",
+      "damage": 0,
+      "weight": 2,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "SGCraft:sgControllerCrystal",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    }
+  ]
+}

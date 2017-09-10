@@ -1,0 +1,147 @@
+{
+  "category": "strongholdCrossing",
+  "count_min": 1,
+  "count_max": 5,
+  "loot": [
+    {
+      "item": "minecraft:iron_ingot",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:redstone",
+      "damage": 0,
+      "weight": 5,
+      "count_min": 4,
+      "count_max": 9
+    },
+    {
+      "item": "minecraft:coal",
+      "damage": 0,
+      "weight": 10,
+      "count_min": 3,
+      "count_max": 8
+    },
+    {
+      "item": "minecraft:bread",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:apple",
+      "damage": 0,
+      "weight": 15,
+      "count_min": 1,
+      "count_max": 3
+    },
+    {
+      "item": "minecraft:iron_pickaxe",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemToolBronzePickaxe",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemOreIridium",
+      "damage": 0,
+      "weight": 1,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemShardIridium",
+      "damage": 0,
+      "weight": 4,
+      "count_min": 3,
+      "count_max": 7
+    },
+    {
+      "item": "IC2:itemToolBronzePickaxe",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemToolBronzeSword",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemArmorBronzeHelmet",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemArmorBronzeChestplate",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemArmorBronzeLegs",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemArmorBronzeBoots",
+      "damage": 0,
+      "weight": 3,
+      "count_min": 1,
+      "count_max": 1
+    },
+    {
+      "item": "IC2:itemIngot",
+      "damage": 0,
+      "weight": 9,
+      "count_min": 2,
+      "count_max": 6
+    },
+    {
+      "item": "IC2:itemIngot",
+      "damage": 1,
+      "weight": 8,
+      "count_min": 1,
+      "count_max": 5
+    },
+    {
+      "item": "QuarryPlus:magicmirror",
+      "damage": 0,
+      "weight": 9,
+      "count_min": 1,
+      "count_max": 1
+    }
+  ]
+}
